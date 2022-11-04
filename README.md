@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaminda Bandara (@wgcban)
+- 👋 Hi, I’m Chaminda (@wgcban)
 - 👀 I’m interested in Computer Vision and Deep Learning.
 - 🌱 I’m currently working on representation learning with masked autoencoders (MAEs).
 - 💞️ I’m looking to collaborate on representation learning and low-level vision applications.
