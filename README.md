@@ -1,12 +1,12 @@
 # Hi there! I'm Chaminda 👋
 
-Welcome to my Github profile! I'm a PhD student in Electrical and Computer Engineering with a focus on Computer Vision and Deep Learning.
+Welcome to my Github profile!
 
 ## About Me
 
 - 👨‍💻 Github: [@wgcban](https://github.com/wgcban)
 - 🌐 Homepage: [www.wgcban.com](https://www.wgcban.com)
-- 📚 PhD student in Electrical and Computer Engineering
+- 📚 PhD student in Electrical and Computer Engineering at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning
 - 🌱 Currently working on representation learning from videos with masked autoencoders (MAEs)
 - 💞️ Looking to collaborate on representation learning and low-level vision research
