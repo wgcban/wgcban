@@ -1,6 +1,6 @@
 # Hi there! I'm Chaminda 👋
 
-Welcome to my Github profile! I'm a PhD student in Electrical and Computer Engineering with a focus on Computer Vision and Deep Learning. I'm passionate about exploring the possibilities of artificial intelligence to develop intelligent machines that can help solve real-world problems.
+Welcome to my Github profile! I'm a PhD student in Electrical and Computer Engineering with a focus on Computer Vision and Deep Learning.
 
 ## About Me
 
