@@ -9,8 +9,6 @@ Welcome to my Github profile!
 - 📚 PhD student in Electrical and Computer Engineering at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning
 - 🌱 Currently working on representation learning from videos with masked autoencoders (MAEs)
-- 💞️ Looking to collaborate on representation learning and low-level vision research
-- 📫 Reach me at wbandar1@jhu.edu for any collaboration opportunities or internship positions for summer 2023
 
 ## Projects
 
