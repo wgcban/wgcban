@@ -3,7 +3,7 @@ Welcome to my Github profile!
 ## About Me
 
 - 🌐 Homepage: [www.wgcban.com](https://www.wgcban.com)
-- 📚 Final-yearPhD student in Electrical and Computer Engineering at Johns Hopkins University
+- 📚 Final-year PhD student in ECE at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning
 - 🌱 Currently working on Self-Supervised Learning (SSL), parameter efficient adaptation of pre-trained models, Generative AI, and low-level vision.
 
