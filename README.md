@@ -2,7 +2,6 @@ Welcome to my Github profile!
 
 ## About Me
 
-- 👨‍💻 Github: [@wgcban](https://github.com/wgcban)
 - 🌐 Homepage: [www.wgcban.com](https://www.wgcban.com)
 - 📚 Final-yearPhD student in Electrical and Computer Engineering at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning
