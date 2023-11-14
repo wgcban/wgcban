@@ -1,18 +1,14 @@
-# Hi there! I'm Chaminda 👋
-
 Welcome to my Github profile!
 
 ## About Me
 
 - 👨‍💻 Github: [@wgcban](https://github.com/wgcban)
 - 🌐 Homepage: [www.wgcban.com](https://www.wgcban.com)
-- 📚 PhD student in Electrical and Computer Engineering at Johns Hopkins University
+- 📚 Final-yearPhD student in Electrical and Computer Engineering at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning
-- 🌱 Currently working on representation learning from videos with masked autoencoders (MAEs)
+- 🌱 Currently working on Self-Supervised Learning (SSL), parameter efficient adaptation of pre-trained models, Generative AI, and low-level vision.
 
-## Projects
-
-I have been working on several projects related to computer vision and deep learning, and I am always looking for new projects to work on. Some of my recent projects include:
+## Selected Projects
 
 - [AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders (CVPR'23)](https://github.com/wgcban/adamae)
 - [Unite and Conquer: Cross Dataset Multimodal Synthesis using Diffusion Models (CVPR'23)](https://nithin-gk.github.io/projectpages/Multidiff/index.html)
