@@ -1,4 +1,4 @@
-Welcome to my Github profile!
+Welcome!
 
 ## About Me
 
@@ -7,8 +7,9 @@ Welcome to my Github profile!
 - 👀 Interested in Computer Vision and Deep Learning
 - 🌱 Currently working on Self-Supervised Learning (SSL), parameter efficient adaptation of pre-trained models, Generative AI, and low-level vision.
 
-## Selected Projects
+## Highlited Projects
 
+- [🚨Guarding Barlow Twins Against Overfitting with Mixed Samples](https://github.com/wgcban/mix-bt)
 - [AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders (CVPR'23)](https://github.com/wgcban/adamae)
 - [Unite and Conquer: Cross Dataset Multimodal Synthesis using Diffusion Models (CVPR'23)](https://nithin-gk.github.io/projectpages/Multidiff/index.html)
 - [ChangeFormer: A Transformer-Based Siamese Network for Change Detection (IGARSS'22)](https://github.com/wgcban/ChangeFormer)
