@@ -4,8 +4,7 @@ Welcome!
 
 - 🌐 Homepage: [www.wgcban.com](https://www.wgcban.com)
 - 📚 Final-year PhD student in ECE at Johns Hopkins University
-- 👀 Interested in Computer Vision and Deep Learning
-- 🌱 Currently working on Self-Supervised Learning (SSL), parameter efficient adaptation of pre-trained models, Generative AI, and low-level vision.
+- 👀 Interested in Computer Vision and Deep Learning - Self-Supervised Learning (SSL), Efficient adaptation of pre-trained models, Generative AI, and low-level vision
 
 ## Highlited Projects
 
