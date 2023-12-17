@@ -29,5 +29,5 @@ Welcome!
 #### Segmentation
 - [SPIN Road Mapper: Extracting Roads from Aerial Images via Spatial and Interaction Space Graph Reasoning for Autonomous Driving (`ICRA'22`)](https://github.com/wgcban/SPIN_RoadMapper)
 
-### SAR Despeckling
+#### SAR Despeckling
 - [SAR-Transformer: Transformer-based SAR Image Despeckling (`IGARSS'22`)](https://github.com/malshaV/sar_transformer)
