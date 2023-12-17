@@ -6,7 +6,7 @@ Welcome!
 - 📚 Final-year PhD student in ECE at Johns Hopkins University
 - 👀 Interested in Computer Vision and Deep Learning - Self-Supervised Learning (SSL), Efficient adaptation of pre-trained models, Generative AI, and low-level vision
 
-## Highlighted Projects ...
+## Github links to my projects ...
 
 ### Self-Supervised Representation Learning
 - [🚨Guarding Barlow Twins Against Overfitting with Mixed Samples](https://github.com/wgcban/mix-bt)
