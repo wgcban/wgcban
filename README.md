@@ -3,8 +3,8 @@ Welcome to My GitHub Profile!
 My research interests lie at the intersection of Computer Vision and Deep Learning, with a specific focus on:
 
 - Self-Supervised Learning (SSL)
-- Efficient Adaptation of Pre-trained Models
 - Generative AI
+- Remote Sensing
 - Low-Level Vision
 
 🌐 **Homepage:** [www.wgcban.com](https://www.wgcban.com)
@@ -12,7 +12,7 @@ My research interests lie at the intersection of Computer Vision and Deep Learni
 ## Featured Projects
 
 ### Self-Supervised Representation Learning
-- **Guarding Barlow Twins Against Overfitting with Mixed Samples** [GitHub](https://github.com/wgcban/mix-bt)
+- **Guarding Barlow Twins Against Overfitting with Mixed Samples** [GitHub](https://github.com/wgcban/mix-bt) 🚨
 - **AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders** @ `CVPR'23` [GitHub](https://github.com/wgcban/adamae)
 
 ### Generative AI
