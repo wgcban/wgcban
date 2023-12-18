@@ -34,3 +34,5 @@ My research interests lie at the intersection of Computer Vision and Deep Learni
 
 #### SAR Despeckling
 - SAR-Transformer: Transformer-based SAR Image Despeckling @ `IGARSS'22` [GitHub](https://github.com/malshaV/sar_transformer)
+- SAR-Overcomplete: SAR Despeckling Using Overcomplete Convolutional Networks @ `IGARSS'22` [GitHub](https://github.com/malshaV/sar_overcomplete)
+- SAR-DDPM: SAR Despeckling using a Denoising Diffusion Probabilistic Model @ `Geoscience and Remote Sensing Letters` [GitHub](https://github.com/malshaV/SAR_DDPM)
